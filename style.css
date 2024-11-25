@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    color: white;
+}
+
+body{
+    background: #538E96;
+}
+
+main{
+    background: #0B2027;
+    border-radius: 30px;
+    align-items: center;
+    margin: 100px;
+    padding: 150px 100px;
+}
+
+h1{
+    text-align: center;
+}
+
+.corpo{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 100px;
+}
+
+.j1,.j2,.j3,.j4{
+    display: flex;
+}
